@@ -1,5 +1,11 @@
 package com.twittr;
 
+/**
+ * POJO representing Twittr user.
+ * 
+ * @author Shyam Baitmangalkar
+ *
+ */
 public class User {
 	private String userId;
 	private String userName;

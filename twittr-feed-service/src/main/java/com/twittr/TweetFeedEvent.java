@@ -2,6 +2,12 @@ package com.twittr;
 
 import java.util.Date;
 
+/**
+ * POJO representing a Twittr Feed Event.
+ * 
+ * @author Shyam Baitmangalkar
+ *
+ */
 public class TweetFeedEvent {
 	private String tweetId;
 	private User user;

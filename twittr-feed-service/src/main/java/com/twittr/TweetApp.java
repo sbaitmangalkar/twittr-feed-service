@@ -5,6 +5,11 @@ import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * 
+ * @author Shyam Baitmangalkar
+ *
+ */
 public class TweetApp {
 	public static void main(String[] args) {
 		List<User> twitterUsers = Stream.of("@sbaitmangalkar,@jonsnow,@tryon,@kjain,@jjha".split(","))
