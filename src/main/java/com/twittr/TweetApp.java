@@ -7,7 +7,8 @@ import java.util.stream.Stream;
 
 /**
  * 
- * @author Shyam Baitmangalkar
+ * @author Shyam Baitmangalkar | catch.shyambaitmangalkar@gmail.com
+ * 
  *
  */
 public class TweetApp {
