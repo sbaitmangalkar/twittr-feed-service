@@ -6,10 +6,10 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
+ * Entry point
  * 
  * @author Shyam Baitmangalkar | catch.shyambaitmangalkar@gmail.com
  * 
- *
  */
 public class TweetApp {
 	public static void main(String[] args) {
